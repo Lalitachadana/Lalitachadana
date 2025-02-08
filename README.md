@@ -43,10 +43,10 @@
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+</p>  -->
   
 <h4> 📬 Reach me out </h4>
-<p align="left"> -->
+<p align="left"> 
 <a href = "https://www.linkedin.com/in/lalita-chadana-1542422bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <!--
 <a href = "https://twitter.com/sakshi_goyat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "https://www.instagram.com/lalita.chadana/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> <!--
